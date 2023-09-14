@@ -1,0 +1,38 @@
+.image{
+    background: linear-gradient(#8294C4, #ACB1D6, #DBDFEA, #FFEAD2);
+}
+
+.title{
+    background-size: cover;
+    height: 80vh; 
+}
+
+#about-me{
+    justify-content: center;
+}
+
+.skill{
+    display: inline-block;
+    background-color: #E3F2C1;
+}
+
+#home{
+
+}
+
+#services{
+
+}
+
+#portfolio{
+
+
+}
+
+#contact{
+    
+}
+
+a:active{
+    color: blue;
+}
